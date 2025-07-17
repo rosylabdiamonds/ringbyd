@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ringbyd/static/css/main.cc01144c.css",
+    "main.js": "/ringbyd/static/js/main.fc95281f.js",
+    "static/js/453.0e5b3874.chunk.js": "/ringbyd/static/js/453.0e5b3874.chunk.js",
+    "index.html": "/ringbyd/index.html",
+    "main.cc01144c.css.map": "/ringbyd/static/css/main.cc01144c.css.map",
+    "main.fc95281f.js.map": "/ringbyd/static/js/main.fc95281f.js.map",
+    "453.0e5b3874.chunk.js.map": "/ringbyd/static/js/453.0e5b3874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc01144c.css",
+    "static/js/main.fc95281f.js"
+  ]
+}
